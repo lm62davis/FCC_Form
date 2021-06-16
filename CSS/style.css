@@ -1,0 +1,37 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  background-color: rgb(247, 239, 239);
+}
+#title {
+  text-align: center;
+  background-color: rgb(252, 165, 134);
+  border-radius: 10%;
+  margin-left: 5em;
+  margin-right: 5em;
+}
+#description {
+  margin-left: 10em;
+  margin-right: 10em;
+}
+.category {
+  margin-left: 1em;
+  padding: 1em;
+}
+.button {
+  color: rgb(114, 48, 24);
+  font-size: x-large;
+  font-weight: 500;
+  background-color: rgb(248, 229, 229);
+  border-radius: 20%;
+}
+.notification {
+  font-weight: 300;
+  margin-bottom: 1em;
+}
+.idea {
+  margin-bottom: 0.75em;
+}
+fieldset {
+  background-color: rgb(248, 229, 229);
+}
